@@ -30,7 +30,7 @@ Then in the body, make sure you provide the **full** name of the dictionary in q
 
 Then you must provide a screenshot of the Yomichan pop up window and/or search page.  
 
-## Types of Issues  
+## Examples of Issues  
 Examples of issues can be found below.  
 
 ### Entry is present but does not appear in search  
