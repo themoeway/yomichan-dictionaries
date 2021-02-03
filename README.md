@@ -34,7 +34,7 @@ Then you must provide a screenshot of the Yomichan pop up window and/or search p
 Examples of issues can be found below.  
 
 ### Entry is present but does not appear in search  
-詔 is present in 精選版 日本国語大辞典 but does not appear when searched, although it is under the entry for 詔.  
+詔す is present in 精選版 日本国語大辞典 but does not appear when searched, although it is under the entry for 詔.  
 
 ### No reading information for expressions  
 In 大辞林 第三版, 肩が凝る does not have reading information and does not appear when you do a kana search for かたがこる  
