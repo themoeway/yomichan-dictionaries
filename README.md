@@ -23,8 +23,11 @@ Anything else not listed, although present in the pack, was not made by TheMoeWa
   
 ## How to open an issue  
 In the issues tab, create a new issue with the green button.   
-For title, make sure you put the dictionary name first, and append a brief summary of the issue. E.g.: "大辞林 第三版: Reading information not found for <word>"  
+
+For title, make sure you put the dictionary name first, and append a brief summary of the issue. Example: "大辞林 第三版: Reading information not found for *word*"   
+
 Then in the body, make sure you provide the **full** name of the dictionary in question. Do NOT say "daijriin" or "shinmeikai", make sure you state the FULL name, "Daijirin 3rd edition" or "大辞林第三版".   
+
 Then you must provide a screenshot of the Yomichan pop up window and/or search page.  
 
 ## Types of Issues  
